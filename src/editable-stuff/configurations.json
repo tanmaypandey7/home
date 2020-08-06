@@ -36,7 +36,7 @@
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "tanmaypandey7",
   "gitHubQuerry": "/starred?sort=desc",
-  "projectsLength": 4,
-  "showNavigationbar": true,
+  "projectsLength": 3,
+  "showNavigationbar": false,
   "showBlog": false
 }
