@@ -2,52 +2,40 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Hashir",
+  "FirstName": "Tanmay",
   "MiddleName": "",
-  "LastName": "Shoaib",
-  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
+  "LastName": "Pandey",
+  "devDesc": "Engineer | Programmer | Data Science Enthusiast ",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/tanmaypandey7",
       "style": "socialicons"
     },
     {
       "id": 1,
-      "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashirshoaeb",
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/tanmaypandey7",
       "style": "socialicons"
     },
     {
       "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashirshoaeb/",
-      "style": "socialicons"
-    },
-    {
-      "id": 3,
-      "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashirshoaeb/",
-      "style": "socialicons"
-    },
-    {
-      "id": 4,
-      "image": "fa-twitter",
-      "url": "https://www.twitter.com/hashirshoaeb/",
+      "image": "fa-kaggle",
+      "url": "https://www.kaggle.com/tanmaypandey",
       "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
-  "showInstaProfilePic": true,
+  "showInstaProfilePic": false,
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "hashirshoaeb",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "I'm Computer Engineer from NUST CEME, Pakistan with 3+ years of experience in web development. I’m currently the Vice President of student body at Emerging Technologies Research Lab(ETL) and a former Intern at RiseTech. I'm passionate about teaching machines how to think",
+  "aboutDescription": "Hi! I'm a final year undergrad at HBTI, Kanpur. I enjoy building end-to-end ML systems and have a keen interest in NLP and CV. Previously, I was working as a Data Science Intern at CrackAdmission where I trained models for grading SOPs and was responsible for managing entire data pipelines from data extraction to model deployment. Experience serving models with Flask, TFServing and AWS.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
-  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "gitHubUsername": "tanmaypandey7",
+  "gitHubQuerry": "/starred?sort=desc",
   "projectsLength": 4,
   "showNavigationbar": true,
   "showBlog": false
