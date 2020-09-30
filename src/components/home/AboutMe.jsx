@@ -61,7 +61,7 @@ const AboutMe = () => {
               <p className="lead text-center">
                 <a
                   className="btn btn-outline-dark btn-lg"
-                  href={Pdf}
+                  href="https://drive.google.com/file/d/1bAGTYjouTE3wO40rLKXTSy1mobIaRTQy/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer noopener"
                   role="button"
