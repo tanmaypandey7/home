@@ -31,7 +31,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "hashirshoaeb",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Hi! I'm a final year undergrad at HBTI, Kanpur. I enjoy building end-to-end ML systems and have a keen interest in NLP and CV. Previously, I was working as a Data Science Intern at CrackAdmission where I trained models for grading SOPs and was responsible for managing entire data pipelines from data extraction to model deployment. Experience serving models with Flask, TFServing and AWS.",
+  "aboutDescription": "Hi! I completed my B.Tech from HBTI, Kanpur. Previously, I was working as a Data Science Intern at CrackAdmission where I trained models for grading SOPs and was responsible for managing entire data pipelines from data extraction to model deployment. I have experience serving models with Flask, TFServing, AWS and have a keen interest in both NLP and CV.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "tanmaypandey7",
